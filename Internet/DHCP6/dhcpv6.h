@@ -42,7 +42,6 @@
 #ifndef _DHCP6_H_
 #define _DHCP6_H_
 #include <stdint.h>
-#include "W6100.h"
 #include "socket.h"
 /*
  * @brief 
